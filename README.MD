@@ -38,3 +38,4 @@ Midjourney：
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Bing
+- Link e-book https://github.com/libbra17/prompts-recipe-to-create-a-ebook/blob/1f1b245631ee38304338ca2dc66dbca27044a0d7/A%20Magia%20da%20Intelige_ncia%20artifical%20no%20mundo%20real.pdf
