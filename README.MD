@@ -38,14 +38,3 @@ Midjourney：
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Bing
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
